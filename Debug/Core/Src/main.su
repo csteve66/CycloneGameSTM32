@@ -1,0 +1,12 @@
+../Core/Src/main.c:31:5:main	16	static
+../Core/Src/main.c:94:13:run_idle_state	8	static
+../Core/Src/main.c:105:13:run_move_right_state	16	static
+../Core/Src/main.c:114:13:run_move_left_state	16	static
+../Core/Src/main.c:123:13:run_lose_state	8	static
+../Core/Src/main.c:130:13:run_win_state	16	static
+../Core/Src/main.c:160:16:button_was_pressed	8	static
+../Core/Src/main.c:169:13:set_led	24	static
+../Core/Src/main.c:200:13:set_all_leds	32	static
+../Core/Src/main.c:207:13:set_led_position	32	static
+../Core/Src/main.c:214:6:EXTI4_15_IRQHandler	8	static
+../Core/Src/main.c:226:13:GPIO_Init	48	static
